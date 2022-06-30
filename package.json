@@ -1,22 +1,18 @@
 {
-  "name": "types-for-adobe",
-  "version": "7.0.4",
+  "name": "types-for-after-effects",
+  "version": "1.0.0",
   "files": [
-    "AfterEffects",
-    "Animate",
-    "Audition",
-    "InDesign",
-    "Illustrator",
-    "Photoshop",
-    "Premiere",
-    "shared"
+    "index.d.ts",
+    "shared",
+    "tsconfig.json"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aenhancers/types-for-adobe.git"
+    "url": "https://github.com/jinzhan/types-for-after-effects"
   },
   "scripts": {
     "test": "_bin/test.sh"
   },
   "license": "MIT"
 }
+
